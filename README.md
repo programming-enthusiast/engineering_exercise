@@ -34,6 +34,7 @@ Reference data - Attached is a randomized vehicle statistics snapshot for your e
 Test review criteria:
 + Project scaffolding and Git friendliness
 + Clean & self-documented code
++ Domain Model suitability
 + Design Patterns usage
 + Usage of modern language practices (e.g., async, avoiding loops, etc.,)
 
