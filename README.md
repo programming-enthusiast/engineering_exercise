@@ -31,11 +31,11 @@
 
 
 # Test review criteria:
-[] Project scaffolding and Git friendliness (10%)
-[] Clean & self-documented code (30%)
-[] Domain Model suitability (10%)
-[] Design Patterns usage (20%)
-[] Usage of modern language practices (e.g., async, avoiding loops, etc.,) (30%)
+[ ] Project scaffolding and Git friendliness (10%)
+[ ] Clean & self-documented code (30%)
+[ ] Domain Model suitability (10%)
+[ ] Design Patterns usage (20%)
+[ ] Usage of modern language practices (e.g., async, avoiding loops, etc.,) (30%)
 
 # Post Test Interview process:
 
