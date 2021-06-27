@@ -1,6 +1,5 @@
-# engineering_excercise
 
-Problem Statement:
+# Problem Statement:
 
 + Create an API that takes multiple optional input(s) of Car manufacturer’s (Make) name (full or partial name), model name (full or partial model name), budget in USD, and/or model year or a combination of any these input variables and returns the following search results in REST friendly format:
 
@@ -8,7 +7,7 @@ Problem Statement:
 * Number of vehicles matched by Make and Model combination
 * Lowest, Median, and Highest Price of the vehicle that matches the price
 
-Requirements:
+# Requirements:
 
 + Develop a fully REST compliant HTTP API
 + Publish your code along with any data sets used on your GitHub page
@@ -20,25 +19,25 @@ Requirements:
 + Test must be returned within 48 hours (will check the latest commit timestamp on your GitHub for qualification)
 
 
-Required Technical Stack:
+# Required Technical Stack:
 
 + Must be created either using JavaScript, Typescript (preferred), or Go lang ONLY
 + Can use any open source frameworks, plugins that are available through public code artifactories (e.g., npm) {cannot use unpublished GitHub source code}
 + Bonus points for limiting the number of open source frameworks utilized to deliver the functionality
 + Use JSON Server or other in-memory persistence layer to store the data sets provided by us or created by you for your exercise (do not use file system in your API code)
 
-Reference data - Attached is a randomized vehicle statistics snapshot for your exercise.
+# Reference data - Attached is a randomized vehicle statistics snapshot for your exercise.
 
 
 
-Test review criteria:
-+ Project scaffolding and Git friendliness
-+ Clean & self-documented code
-+ Domain Model suitability
-+ Design Patterns usage
-+ Usage of modern language practices (e.g., async, avoiding loops, etc.,)
+# Test review criteria:
+[] Project scaffolding and Git friendliness (10%)
+[] Clean & self-documented code (30%)
+[] Domain Model suitability (10%)
+[] Design Patterns usage (20%)
+[] Usage of modern language practices (e.g., async, avoiding loops, etc.,) (30%)
 
-Post Test Interview process:
+# Post Test Interview process:
 
 + There will be 2 interviews after the test has been successfully submitted
 + 1 Interview will be focused on submitted exercise, code review, and requirements validation
