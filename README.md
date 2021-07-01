@@ -4,7 +4,7 @@
 + Create an API that takes multiple optional input(s) of Car manufacturer’s (Make) name (full or partial name), model name (full or partial model name), budget in USD, and/or model year or a combination of any these input variables and returns the following search results in REST friendly format:
 
 * Total Number of vehicles available that matches the faceted search parameters
-* Number of vehicles matched by Make and Model combination
+* Number of vehicles matched by Make and Model combination as a sub-group of Total Number
 * Lowest, Median, and Highest Price of the vehicle that matches the price
 
 # Requirements:
