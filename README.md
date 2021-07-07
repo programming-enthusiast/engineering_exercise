@@ -72,7 +72,7 @@
 
 # Test Scoring - Minimum to consider for interview (75%)
 + Project scaffolding and Git friendliness (10%)
-+ Clean & self-documented code (30%)
++ Clean, Unit Tested, & self-documented code (30%)
 + Domain Model suitability (10%)
 + Design Patterns usage (20%)
 + Usage of modern language practices (e.g., async, avoiding loops, etc.,) (30%)
