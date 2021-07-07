@@ -28,7 +28,9 @@
 + Bonus points for limiting the number of open source frameworks utilized to deliver the functionality
 + Use JSON Server or other in-memory persistence layer to store the data sets provided by us or created by you for your exercise (do not use file system in your API code)
 
-# Reference data - Attached is a randomized vehicle statistics snapshot for your exercise.
+# Reference
+
++ Attached is a randomized vehicle statistics snapshot for your exercise.
 
 
 # Part B - Full Stack Developers Only
@@ -62,7 +64,11 @@
 + Bonus points for limiting the number of open source frameworks utilized to deliver the functionality
 + Use the API built in Part (A) of this exercise
 
-# Reference - HTML Template is provided as a starting point for your SPA application. You have to use this design but can replace HTML/Web components as you need to based on the libraries you have chosen so long as the design system is showcased.
+# Reference
+
++ HTML Template is provided as a starting point for your SPA application. You have to use this design but can replace HTML/Web components as you need to based on the libraries you have chosen so long as the design system is showcased.
+
+# Part A & Part B Scoring and Next Steps
 
 # Test Scoring - Minimum to consider for interview (75%)
 + Project scaffolding and Git friendliness (10%)
