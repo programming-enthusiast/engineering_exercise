@@ -8,6 +8,7 @@
 * Total Number of vehicles available that matches the faceted search parameters
 * Number of vehicles matched by Make and Model combination as a sub-group of Total Number
 * Lowest, Median, and Highest Price of the vehicle that matches the price
+* 5 Suggested vehicles that are within a given budget. Sort by price in ascending order. Distinct Brand. ( Budget range is 10% of given budget. For example: A budget of 25k will yield vehicles with pricing between 22,500 and 27,500 )
 
 # Requirements:
 
