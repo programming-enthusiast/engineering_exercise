@@ -16,7 +16,7 @@ Other details
   -- clicking on "Search by vehicle type" button should launch the vehicle type screen
 - The vehicle type screen should show a list of cars.
 ## Unit test
-use the Exercise_Dataset.json as input
+use the Engineering_Exercise/Exercise_Dataset.json as input
 
  - implement a search function that takes multiple optional input(s) of:
     - Car manufacturer’s (Make) name (full or partial name), 
