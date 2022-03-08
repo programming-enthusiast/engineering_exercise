@@ -14,6 +14,8 @@ Requirements:
 Other details
 - The home screen should have the logo, search bar, and 2 buttons
   -- clicking on "Search by vehicle type" button should launch the vehicle type screen
+  -- clicking on "See Deals of the Day" button should call search function with search input ( see details below ) 
+  -- return output to console in JSON format
 - The vehicle type screen should show a list of cars.
 ## Unit test
 use the Engineering_Exercise/Exercise_Dataset.json as input
