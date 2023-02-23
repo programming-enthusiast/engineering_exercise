@@ -3,7 +3,7 @@
   npm install
 ```
 
-# run the backend locally
+# Run the backend locally
 You can run the backend server using the following command.
 ```
   npm run dev
